@@ -68,7 +68,7 @@ Looking for more tools and resources not listed? Check out [90 DevOps Tools](htt
 - [NoDesk](https://nodesk.co/remote-jobs/engineering)
 - [The Muse](https://www.themuse.com/search?keyword=devops&job_level=Entry%20Level)
 - [Dice](https://www.dice.com/jobs?q=devops&radius=30&radiusUnit=mi&page=1&pageSize=20&filters.isRemote=true&language=en)
-- [Stack Overflow](ttps://stackoverflow.com/jobs?c=usd&ms=Junior&mxs=Junior&dr=DevOpsDeveloper)
+- [Stack Overflow](https://stackoverflow.com/jobs?c=usd&ms=Junior&mxs=Junior&dr=DevOpsDeveloper)
 - [GitHub Jobs](https://jobs.github.com/)
 - [AWS Jobs](https://www.amazon.jobs/en/search?base_query=devops&loc_query=&latitude=&longitude=&loc_group_id=&invalid_location=false&country=&city=&region=&county=)
 - [Google Cloud Jobs](https://careers.google.com/jobs/results/?location=United%20States&q=devops)
