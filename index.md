@@ -92,6 +92,8 @@ Looking for more tools and resources not listed? Check out [90 DevOps Tools](htt
 - Practice SQL - [Link](http://sqlfiddle.com/)
 - Going to record some videos and add them to my [YouTube playlist](https://youtube.com/playlist?list=PLppGQhQtHyJYqflcAsLakbCGxla-64s1W) soon for those hands-on projects above. Will use [Screencast-o-matic](https://screencast-o-matic.com/) to screen record and edit.
 
+---
+Let's connect: [LinkedIn](https://www.linkedin.com/in/msguery), [Twitter](https://twitter.com/msguery), [YouTube](https://m.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg)
 
 ---
 ** = Affiliate links. I'm also an Amazon Associate and will a commission if you decide to make purchase, at no extra cost to you. Thanks for your support.  
