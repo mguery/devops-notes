@@ -80,8 +80,9 @@ Looking for more tools and resources not listed? Check out [90 DevOps Tools](htt
 - Consulting firms - [Accenture](https://www.accenture.com/us-en/careers/jobsearch?jk=&sb=1&pg=1&is_rj=0), [Slalom](https://slalom.secure.force.com/careers), [Deloitte](https://jobs2.deloitte.com/ui/en/?icid=bn_job-search)
 - Freelancing and consulting - [Toptal](https://www.toptal.com/), [Upwork](https://www.upwork.com/), [Solidgigs](https://solidgigs.com/)
 - [More job sites](https://mguery.github.io/web-dev/#work)
-- [Resumes for DevOps](https://duckduckgo.com/?q=devops+resume&ia=web) and [ATS-friendly tips](https://duckduckgo.com/?q=ats+friendly+resumes&ia=web)
+- Resumes: [Sample Cloud Engineer resume](https://docs.google.com/document/d/18KID4y29SZFr6nAUX5XS9nyTaLg1w4027BT6scaUE9M/edit), [Resumes for DevOps](https://duckduckgo.com/?q=devops+resume&ia=web), [ATS-friendly tips](https://duckduckgo.com/?q=ats+friendly+resumes&ia=web)
 - [Top 85 DevOps interview questions](https://www.simplilearn.com/tutorials/devops-tutorial/devops-interview-questions)
+
 
 ## Tools I'm using
 
