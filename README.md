@@ -26,13 +26,16 @@ Looking for more tools and resources not listed? Check out [90 DevOps Tools](htt
 
 ## Get hands-on training                               
 
-- [AWS Services - Qwiklabs](https://amazon.qwiklabs.com/)
 - [AWS Hands-on Tutorials](https://aws.amazon.com/getting-started/hands-on), [AWS Well-Architected Labs](https://www.wellarchitectedlabs.com/)
 - AWS workshops - [search in GitHub](https://github.com/search?q=aws%20workshops) and full list here on [Awesome AWS Workshops](https://awesome-aws-workshops.com/)
-- [Cloud Native DevOps Bootcamp (Azure & AWS)](https://cloudskills.io/courses/cloud-native) (**Paid Course/Bootcamp**)
+- [Azure & AWS Courses](https://cloudskills.io/courses) (**Paid**)
 - [DevOps Lifecycle](https://devopslifecycle.com/roadmaps) has project ideas under "How to learn"
-- Project ideas - [3 Projects to get hands-on with cloud](https://youtu.be/cXUT9vkKi7Y), [Top 10 places for AWS project ideas](https://techcloudonline.com/2019/11/28/top-10-places-for-aws-projects/), [Top 8 Exciting AWS Projects & Ideas For Beginners](https://www.upgrad.com/blog/aws-projects-ideas/), [100DaysOfCloud Ideas List](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
-- Start to document your journey on your blog, [GitHub](https://github.com/), or [GitHub Pages](https://pages.github.com/) 
+- Project ideas 
+  - [3 Projects to get hands-on with cloud](https://youtu.be/cXUT9vkKi7Y)
+  - [Top 10 places for AWS project ideas](https://techcloudonline.com/2019/11/28/top-10-places-for-aws-projects/)
+  - [Top 8 Exciting AWS Projects & Ideas For Beginners](https://www.upgrad.com/blog/aws-projects-ideas/)
+  - [100DaysOfCloud Ideas List](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+- Start documenting your journey on your blog, [GitHub](https://github.com/), or [GitHub Pages](https://pages.github.com/) 
 
 
 ## Tips and resources
@@ -76,7 +79,7 @@ Looking for more tools and resources not listed? Check out [90 DevOps Tools](htt
 - [Google Cloud Jobs](https://careers.google.com/jobs/results/?location=United%20States&q=devops)
 - [Microsoft Jobs](https://careers.microsoft.com/us/en/search-results?keywords=devops)
 - [IBM Jobs](https://www.ibm.com/employment/?lnk=fab#jobs?%23jobs=&job-search=Devops&country=United%2520States&experience=Entry%2520Level)
-- [Crunchbase - search "cloud"](https://www.crunchbase.com/discover/organization.companies?fbclid=IwAR20RT_CH7ytMIvm11L2f-eHLCoNwwfpAtDBC_8vmw1lAo7CR3Z6LRcqy-0)
+- [Crunchbase](https://www.crunchbase.com/discover/organization.companies?fbclid=IwAR20RT_CH7ytMIvm11L2f-eHLCoNwwfpAtDBC_8vmw1lAo7CR3Z6LRcqy-0)  (search "cloud")
 - [Aquent](https://aquent.com/find-work/?k=devops&l=remote&development=on)
 - [Indeed Jobs](https://www.indeed.com/jobs?q=%22devops+engineer%22&l=Remote&radius=1&explvl=entry_level)
 - Consulting firms - [Accenture](https://www.accenture.com/us-en/careers/jobsearch?jk=&sb=1&pg=1&is_rj=0), [Slalom](https://slalom.secure.force.com/careers), [Deloitte](https://jobs2.deloitte.com/ui/en/?icid=bn_job-search)
