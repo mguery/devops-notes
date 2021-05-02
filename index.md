@@ -10,7 +10,7 @@ What to learn | Where to learn it
 **Infrastructure provisioning: Terraform** | [Terraform in 15 mins](https://www.youtube.com/watch?v=l5k1ai_GBDE), [Terraform in 2 hours](https://www.youtube.com/watch?v=SLB_c_ayRMo), [Terraform Beginner to Pro - Warp 9](https://warp-9.com/) (**Paid Course**), [Getting Started with Terraform on AWS](https://cloudskills.io/blog/terraform-aws-1), [Intro to Terraform](https://hackernoon.com/hashicorps-terraform-a-introduction-7f2034ae), [Terraform Docs](https://www.terraform.io/docs/index.html)
 **Containerization: Docker** | [Docker for beginners - Full Course in 3 hours](https://www.youtube.com/watch?v=3c-iBn73dDE), [From Docker to Deployment](https://youtu.be/i7ABlHngi1Q?t=410), [Docker for Everyone in 2 Hours](https://youtu.be/d-PPOS-VsC8), [Beginner’s Guide to Understanding and Building Docker Images](https://jfrog.com/knowledge-base/a-beginners-guide-to-understanding-and-building-docker-images/), [Anatomy of a Dockerfile](https://gist.github.com/adamveld12/4815792fadf119ef41bd), [Docker Docs](https://docs.docker.com/)
 **Container orchestration: Kubernetes** | [Learn Kubernetes Now](https://www.youtube.com/watch?v=7bA0gTroJjw), [Kubernetes for beginners](https://www.youtube.com/watch?v=X48VuDVv0do), [Just enough Kubernetes to be dangerous - Udemy](https://www.udemy.com/share/101HRSA0MceFxVQw==/), [Kubernetes Docs](https://kubernetes.io/docs/home/) and [Training](https://kubernetes.io/training/)
-**Configuration management: Ansible** | [Ansible Tutorial for Beginners](https://youtu.be/1id6ERvfozo), [Learn Ansible - series](https://youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70), [Ansible Docs](https://docs.ansible.com/ansible/latest/user_guide/index.html), [YAML Syntax for Ansible](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html) (See Other for more YAML)
+**Configuration management: Ansible** | [Ansible Tutorial for Beginners](https://youtu.be/1id6ERvfozo), [Learn Ansible - series](https://youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70), [Ansible Docs](https://docs.ansible.com/), [YAML Syntax for Ansible](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html) (See Other for more YAML)
 **Monitoring + log management: Prometheus and Grafana** | [Monitoring using Prometheus and Grafana](https://www.youtube.com/watch?v=cF2P9d7rBlg), [Documentation](https://prometheus.io/docs/)
 **Scripting language: Python** | [Learn Python in 1 Hour](https://www.youtube.com/watch?v=kqtD5dpn9C8), [Python Tutorial for Beginners](https://www.youtube.com/watch?v=t8pPdKYpowI), [Learn Python in 4 Hours](https://youtu.be/rfscVS0vtbw), [Explore Python on AWS](https://aws.amazon.com/developer/language/python/?nc1=f_dr), [Python Handbook](https://www.freecodecamp.org/news/the-python-handbook), [Python Docs](https://docs.python.org/)
 **CI/CD: GitLab** | [Gitlab on Udemy](https://www.udemy.com/course/gitlab-course/learn/), [GitLab Docs](https://docs.gitlab.com/), or [GitHub Actions CI/CD](https://www.youtube.com/watch?v=mFFXuXjVgkU), [AWS DevOps CI/CD - CodePipeline, Elastic Beanstalk, Mocha](https://www.udemy.com/user/backspace-academy/)  
@@ -24,13 +24,16 @@ Looking for more tools and resources not listed? Check out [90 DevOps Tools](htt
 
 ## Get hands-on training                               
 
-- [AWS Services - Qwiklabs](https://amazon.qwiklabs.com/)
 - [AWS Hands-on Tutorials](https://aws.amazon.com/getting-started/hands-on), [AWS Well-Architected Labs](https://www.wellarchitectedlabs.com/)
 - AWS workshops - [search in GitHub](https://github.com/search?q=aws%20workshops) and full list here on [Awesome AWS Workshops](https://awesome-aws-workshops.com/)
-- [Cloud Native DevOps Bootcamp (Azure & AWS)](https://cloudskills.io/courses/cloud-native) (**Paid Course/Bootcamp**)
+- [Azure & AWS Courses](https://cloudskills.io/courses) (**Paid**)
 - [DevOps Lifecycle](https://devopslifecycle.com/roadmaps) has project ideas under "How to learn"
-- Project ideas - [3 Projects to get hands-on with cloud](https://youtu.be/cXUT9vkKi7Y), [Top 10 places for AWS project ideas](https://techcloudonline.com/2019/11/28/top-10-places-for-aws-projects/), [Top 8 Exciting AWS Projects & Ideas For Beginners](https://www.upgrad.com/blog/aws-projects-ideas/), [100DaysOfCloud Ideas List](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
-- Start to document your journey on your blog, [GitHub](https://github.com/), or [GitHub Pages](https://pages.github.com/) 
+- Project ideas 
+  - [3 Projects to get hands-on with cloud](https://youtu.be/cXUT9vkKi7Y)
+  - [Top 10 places for AWS project ideas](https://techcloudonline.com/2019/11/28/top-10-places-for-aws-projects/)
+  - [Top 8 Exciting AWS Projects & Ideas For Beginners](https://www.upgrad.com/blog/aws-projects-ideas/)
+  - [100DaysOfCloud Ideas List](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+- Start documenting your journey on your blog, [GitHub](https://github.com/), or [GitHub Pages](https://pages.github.com/) 
 
 
 ## Tips and resources
@@ -74,7 +77,7 @@ Looking for more tools and resources not listed? Check out [90 DevOps Tools](htt
 - [Google Cloud Jobs](https://careers.google.com/jobs/results/?location=United%20States&q=devops)
 - [Microsoft Jobs](https://careers.microsoft.com/us/en/search-results?keywords=devops)
 - [IBM Jobs](https://www.ibm.com/employment/?lnk=fab#jobs?%23jobs=&job-search=Devops&country=United%2520States&experience=Entry%2520Level)
-- [Crunchbase - search "cloud"](https://www.crunchbase.com/discover/organization.companies?fbclid=IwAR20RT_CH7ytMIvm11L2f-eHLCoNwwfpAtDBC_8vmw1lAo7CR3Z6LRcqy-0)
+- [Crunchbase](https://www.crunchbase.com/discover/organization.companies?fbclid=IwAR20RT_CH7ytMIvm11L2f-eHLCoNwwfpAtDBC_8vmw1lAo7CR3Z6LRcqy-0)  (search "cloud")
 - [Aquent](https://aquent.com/find-work/?k=devops&l=remote&development=on)
 - [Indeed Jobs](https://www.indeed.com/jobs?q=%22devops+engineer%22&l=Remote&radius=1&explvl=entry_level)
 - Consulting firms - [Accenture](https://www.accenture.com/us-en/careers/jobsearch?jk=&sb=1&pg=1&is_rj=0), [Slalom](https://slalom.secure.force.com/careers), [Deloitte](https://jobs2.deloitte.com/ui/en/?icid=bn_job-search)
@@ -82,7 +85,6 @@ Looking for more tools and resources not listed? Check out [90 DevOps Tools](htt
 - [More job sites](https://mguery.github.io/web-dev/#work)
 - Resumes: [Sample Cloud Engineer resume](https://docs.google.com/document/d/18KID4y29SZFr6nAUX5XS9nyTaLg1w4027BT6scaUE9M/edit), [Resumes for DevOps](https://duckduckgo.com/?q=devops+resume&ia=web), [ATS-friendly tips](https://duckduckgo.com/?q=ats+friendly+resumes&ia=web)
 - [Top 85 DevOps interview questions](https://www.simplilearn.com/tutorials/devops-tutorial/devops-interview-questions)
-
 
 ## Tools I'm using
 
