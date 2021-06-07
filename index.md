@@ -1,6 +1,8 @@
-Wanted to document all the things I'm learning and doing for DevOps, plus share resources I'm using. I used these 2 DevOps roadmaps from [Tech With Nana](https://www.youtube.com/watch?v=9pZ2xmsSDdo) and [DevOps Journey](https://www.youtube.com/watch?v=5pxbp6FyTfk) to come up with my study guide/personal roadmap for DevOps Engineer. 
+Wanted to document what I'm learning and doing for Cloud/DevOps, plus share resources I'm using. I used these 2 DevOps roadmaps from [Tech With Nana](https://www.youtube.com/watch?v=9pZ2xmsSDdo) and [DevOps Journey](https://www.youtube.com/watch?v=5pxbp6FyTfk) to come up with this study guide/personal roadmap for Cloud/DevOps Engineers. 
 
-I will add links as I go to the table below and to [this playlist](https://youtube.com/playlist?list=PLHl7C8vb5dHblwSmm0j1TbwnTyfABNIOQ). Plan is to learn the basics for these tools so I can prepare myself for the hands-on projects. (Note: the last 3 rows are optional but good to know.) 
+I will try keep this table updated, but make sure to check out [this YouTube playlist](https://youtube.com/playlist?list=PLHl7C8vb5dHblwSmm0j1TbwnTyfABNIOQ) just in case. 
+
+(Note: the last 3 rows are optional but good to know.) 
 
 What to learn | Where to learn it
 ------------------- | -------------
@@ -33,7 +35,7 @@ Looking for more tools and resources not listed? Check out [90 DevOps Tools](htt
   - [Top 10 places for AWS project ideas](https://techcloudonline.com/2019/11/28/top-10-places-for-aws-projects/)
   - [Top 8 Exciting AWS Projects & Ideas For Beginners](https://www.upgrad.com/blog/aws-projects-ideas/)
   - [100DaysOfCloud Ideas List](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
-- Start documenting your journey on your blog, [GitHub](https://github.com/), or [GitHub Pages](https://pages.github.com/) 
+- Start documenting your journey on your blog, [GitHub](https://github.com/), or [GitHub Pages](https://pages.github.com/) (And always share it on LinkedIn!)
 
 
 ## Tips and resources
@@ -93,7 +95,7 @@ Looking for more tools and resources not listed? Check out [90 DevOps Tools](htt
 - Docker for Windows - [Link](https://hub.docker.com/editions/community/docker-ce-desktop-windows/)
 - Replit is a web-based code editor/CLI (practice Linux) - [Link](https://replit.com/)
 - Practice SQL - [Link](http://sqlfiddle.com/)
-- Going to record some videos and add them to my [YouTube playlist](https://youtube.com/playlist?list=PLppGQhQtHyJYqflcAsLakbCGxla-64s1W) soon for those hands-on projects above. Will use [Screencast-o-matic](https://screencast-o-matic.com/) to screen record and edit.
+- Want to see what I'm working on? Watch this [YouTube playlist](https://youtube.com/playlist?list=PLppGQhQtHyJYqflcAsLakbCGxla-64s1W) and check out some my hands-on projects.
 
 ---
 
@@ -101,4 +103,4 @@ Looking for more tools and resources not listed? Check out [90 DevOps Tools](htt
 
 ---
 
-Let's connect: [LinkedIn](https://www.linkedin.com/in/msguery) and [YouTube](https://m.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg)
+Let's connect: [LinkedIn](https://www.linkedin.com/in/msguery), [Instagram](https://www.instagram.com/msguery), [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg?sub_confirmation=1)
